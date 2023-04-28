@@ -1,0 +1,12 @@
+h1 {
+   width:1750px;
+   margin-top: 0px;
+   text-align: center;
+   height: 65px;
+   font-size:large;
+}
+
+#status {
+    width:150px;
+    height:35px;
+}
